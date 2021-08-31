@@ -1,1 +1,1 @@
-#Official Website for Laxgo legal consultants fro Vocalslocal
+# Official Website for Laxgo legal consultants from Vocalslocal

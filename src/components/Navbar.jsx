@@ -1,4 +1,5 @@
 import React from "react";
+import logo from "../img/logo.png";
 
 function Navbar() {
   return (
@@ -7,8 +8,10 @@ function Navbar() {
       id="mainNav"
     >
       <div className="container px-4 px-lg-5">
+      <img src={logo} className="nav-logo" style={{height: "40px", marginRight: "20px" }} alt="" />
+
         <a className="navbar-brand" href="#page-top">
-          Lexo Legal Consultant
+          Laxgo Legal Consultant
         </a>
         <button
           className="navbar-toggler navbar-toggler-right"
@@ -31,11 +34,6 @@ function Navbar() {
             <li className="nav-item">
               <a className="nav-link" href="#services">
                 Services
-              </a>
-            </li>
-            <li className="nav-item">
-              <a className="nav-link" href="#portfolio">
-                Portfolio
               </a>
             </li>
             <li className="nav-item">

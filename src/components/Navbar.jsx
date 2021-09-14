@@ -8,7 +8,7 @@ function Navbar() {
       id="mainNav"
     >
       <div className="container px-4 px-lg-5">
-      <img src={logo} className="nav-logo" style={{height: "40px", marginRight: "20px" }} alt="" />
+      <img src={logo} className="nav-logo"  alt="" />
 
         <a className="navbar-brand" href="#page-top">
           Laxgo Legal Consultant

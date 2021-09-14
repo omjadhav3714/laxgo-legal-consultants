@@ -17,16 +17,6 @@ function Social(){
         <div className="tooltip">Instagram</div>
         <span><i className="bi bi-instagram"></i></span>
       </div>
-
-      <div className="icon github">
-        <div className="tooltip">Github</div>
-        <span><i className="bi bi-github"></i></span>
-      </div>
-
-      <div className="icon youtube">
-        <div className="tooltip">Youtube</div>
-        <span><i className="bi bi-youtube"></i></span>
-      </div>
     </div>
   </div>)
 }

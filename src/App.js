@@ -6,6 +6,7 @@ import logo from "./img/logo.png"
 import Social from "./components/Social";
 
 export default function App() {
+
   return (
     <div className="App">
       <Navbar />
@@ -31,10 +32,10 @@ export default function App() {
               <h2 className="text-white mt-0">We've got what you need!</h2>
               <hr className="divider divider-light" />
               <p className="text-white-75 mb-4">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Id
-                animi fugit provident voluptatem qui accusamus distinctio at
-                doloremque iusto, adipisci quaerat ab? Odit recusandae quasi
-                quod ratione maiores atque accusamus!
+                Laxgo Legal Consulatants is addressed to provide advice on different legal issues.
+                To be actively involved in preparing and drafting
+                of different statutory and legal submissions and
+                draft the authoritative legal opinions as well
               </p>
               <a className="btn btn-light btn-xl" href="#services">
                 Get Started!

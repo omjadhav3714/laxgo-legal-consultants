@@ -8,9 +8,9 @@ function Navbar() {
       id="mainNav"
     >
       <div className="container px-4 px-lg-5">
-      <img src={logo} className="nav-logo"  alt="" />
+      <img src={logo} className="nav-logo img-fluid"  alt="" />
 
-        <a className="navbar-brand" href="#page-top">
+        <a className="navbar-brand " href="#App">
           Laxgo Legal Consultant
         </a>
         <button
